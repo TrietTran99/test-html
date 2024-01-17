@@ -1,0 +1,21 @@
+/* styles.css */
+h1 {
+    color: pink;
+}
+
+p {
+    color: green;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+
+ul.a {
+    color: blue;
+}
+
+li {
+    color: black;
+}
